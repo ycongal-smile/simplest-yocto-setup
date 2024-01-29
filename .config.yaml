@@ -1,7 +1,7 @@
 header:
   version: 11
 
-machine: dogbonedark
+machine: stompduck2
 distro: kiss
 target:
   - kiss-image
